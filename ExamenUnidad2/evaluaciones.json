@@ -1,0 +1,16 @@
+{
+  "evaluaciones": [
+    {
+      "id": "MetodosNumericos_OmarAlejandro_5-J",
+      "asignatura": "Metodos Numericos",
+      "profesor": "Omar Alejandro",
+      "grupo": "5-J",
+      "datos_instrumento": {
+        "fecha": "2026-04-03",
+        "criterio1": 10,
+        "observaciones": ""
+      },
+      "equipos": []
+    }
+  ]
+}
